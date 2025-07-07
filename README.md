@@ -29,7 +29,10 @@ This project implements a *real-time pricing engine* for urban parking lots usin
 ## 📐 Architecture Diagram
 
 mermaid
-graph TD
+graph TD                                                                        
+
+
+
     A[CSV Input Stream] -->|streaming| B[Pathway Schema]
     B --> C[Model 1 - Linear Pricing]
     B --> D[Model 2 - Demand-Based Pricing]
