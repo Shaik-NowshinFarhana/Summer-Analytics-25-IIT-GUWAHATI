@@ -6,6 +6,8 @@ ASSIGNMENT URL:-https://jupyter.org/try-jupyter/lab/index.html?path=SA2025_W1.ip
 
 # Dynamic Pricing for Urban Parking Lots
 
+
+Colab link:- https://colab.research.google.com/drive/1m9I-ou_3IUUuLeV0lQUj2UICszItOMrG?usp=sharing
 ## 🧭 Overview
 
 This project implements a *real-time pricing engine* for urban parking lots using streaming data. The system adjusts prices dynamically based on real-time demand, competition from nearby lots, and environmental factors. Built as part of the *Summer Analytics 2025 Capstone*, it uses Python, Pandas, Pathway, and Bokeh to create intelligent and interpretable pricing models.
